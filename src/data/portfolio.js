@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Library Book Manager',
-        imageUrl: '', 
+        imageUrl: '/assets/librarybookmanager.png', 
         stack: ['MongoDB', 'Express.js', 'React', 'Node.js'],
         link: 'https://github.com',
 
@@ -15,7 +15,7 @@ export default [
     },
     {
         title: 'Daily Task Manager',
-        imageUrl: '', 
+        imageUrl: '/assets/oberon.png', 
         stack: ['Java'],
         link: 'https://github.com',
 
