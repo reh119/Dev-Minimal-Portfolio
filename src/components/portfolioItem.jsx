@@ -27,4 +27,3 @@ function PortfolioItem({ title, imageUrl, stack, link }) {
 }
 
 export default PortfolioItem;
-
